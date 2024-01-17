@@ -1,4 +1,10 @@
-### Hi there 👋
+Welcome to Felix Mayr's github!
+
+- 🔭 I’m currently working on graph neural networks for materials science
+- 🌱 I’m currently learning more on Python packaging, some oldfashioned QT, and Rust for eventually controlling a (supposedly high quality) Infineon CO₂-sensor
+- 👯 I’m looking to collaborate on cool Open Data projects!
+- 💬 Ask me about running a small HPC on physical hardware and technology of past ages.
+- ⚡ Fun fact: I will disassemble every broken electronics device before throwing it away.
 
 <!--
 **flxmr/flxmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
